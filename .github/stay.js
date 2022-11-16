@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-# ～ Stay（2022-10-17）@ddgksf2013
+# ～ Stay（2022-10-17）
 ^https?:\/\/api\.shenyin\.name\/stay-fork\/browse\/featured$ url script-response-body https://github.com/seers777/Surge/edit/master/.github/stay.js
 
 [mitm]
