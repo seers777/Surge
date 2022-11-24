@@ -1,6 +1,5 @@
 /***************
 @ Dream 解锁订阅
-@ WeeekWin
 ****************
 [rewrite_local]
 ^https:\/\/paint\.api\.wombo\.ai:443\/api\/premium\/sync\/$ url script-response-body https://github.com/seers777/Surge/raw/master/.github/Dream.js
