@@ -12,7 +12,7 @@
 *******************************
 [rewrite_local]
 # > TIDAL解锁HiFi Plus
-^https?:\/\/api\.tidal\.com\/v1\/tracks/\d+\/playbackinfopostpaywall.+ url script-analyze-echo-response https://raw.githubusercontent.com/yqc007/QuantumultX/master/TidalHiFiPlusCrack.js
+^https?:\/\/api\.tidal\.com\/v1\/tracks/\d+\/playbackinfopostpaywall.+ url script-analyze-echo-response https://github.com/seers777/Surge/raw/master/.github/TidalHifiPlus.js
 
 [mitm] 
 hostname = api.tidal.com
