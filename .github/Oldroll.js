@@ -16,7 +16,7 @@
 [rewrite_local]
 
 # > OldRoll解锁永久会员
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/OldRollFVIPCrack.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://github.com/seers777/Surge/raw/master/.github/Oldroll.js
 
 [mitm] 
 
