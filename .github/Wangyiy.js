@@ -3,7 +3,7 @@
 网易云会员
 日期:2022.10.12
 [rewrite_local]
-^http[s]:\/\/(.*.*.163.com) url script-request-header https://gist.githubusercontent.com/Crazy-Z7/eea780a629ba20b81b263953fa5de487/raw/c64f69ae12f667bbea85a9d5eaccc80d805ca802/Zoo.wyiyun.js
+^http[s]:\/\/(.*.*.163.com) url script-request-header https://github.com/seers777/Surge/raw/master/.github/Wangyiy.js
 [mitm]
 hostname = *.*.163.com
 ***************************************/
