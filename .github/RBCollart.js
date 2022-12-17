@@ -16,7 +16,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/iap\.etm\.tech\/receipts url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Photo.js
+^https:\/\/iap\.etm\.tech\/receipts url script-response-body https://github.com/seers777/Surge/raw/master/.github/RBCollart.js
 
 [mitm] 
 
