@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/payments\.invideo\.io\/subscription url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Invideo.js
+^https:\/\/payments\.invideo\.io\/subscription url script-response-body https://github.com/seers777/Surge/raw/master/Invideo.js
 
 [mitm] 
 
