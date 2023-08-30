@@ -3,7 +3,7 @@
 CARROT Weather：https://apps.apple.com/app/id961390574
 
 [rewrite_local]
-^https?:\/\/carrotweather\.herokuapp\.com\/parse\/functions\/findSubscriptionsForUserId url script-response-body https://raw.githubusercontent.com/Guding88/Script/main/CARROTWeather.js
+^https?:\/\/carrotweather\.herokuapp\.com\/parse\/functions\/findSubscriptionsForUserId url script-response-body https://github.com/seers777/Surge/raw/master/.github/PhotoGrid.js
 
 [MITM]
 hostname = carrotweather.herokuapp.com
