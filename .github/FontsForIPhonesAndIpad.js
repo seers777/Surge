@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://github.com/seers777/Surge/raw/master/.githu/FontsForIPhonesAndIpad.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://github.com/seers777/Surge/blob/master/.github/FontsForIPhonesAndIpad.js
 
 [mitm]
 hostname = buy.itunes.apple.com
