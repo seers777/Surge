@@ -1,12 +1,10 @@
 /*
 
-CARROT Weather：https://apps.apple.com/app/id961390574
-
 [rewrite_local]
-^https?:\/\/carrotweather\.herokuapp\.com\/parse\/functions\/findSubscriptionsForUserId url script-response-body https://github.com/seers777/Surge/raw/master/.github/PhotoGrid.js
+^https://pgapi.ksmobile.com/v1/ios/auth url script-response-body https://github.com/seers777/Surge/raw/master/.github/PhotoGrid.js
 
 [MITM]
-hostname = carrotweather.herokuapp.com
+hostname = pgapi.ksmobile.com
 
 */
 var guding = JSON.parse($response.body);
