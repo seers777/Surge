@@ -63,7 +63,7 @@ function runSingleTest(target, callback) {
   // 通过指定策略组发出请求（使用当前策略组选中的节点）
   if (policyName) req.policy = policyName;
 
-  const start = Date.now();https://github.com/seers777/Surge/blob/master/.github/ip_risk_check.js
+  const start = Date.now();
   $httpClient.get(req, (error, response, body) => {
     const cost = Date.now() - start;
     let record = {
