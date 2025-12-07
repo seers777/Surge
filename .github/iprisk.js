@@ -1,7 +1,7 @@
 // Surge Panel: Node Purity Checker
 // 面板输出 + 纯净度测试
 
-const policyName = $argument || "Proxy";
+const policyName = $argument || "📞𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦";
 
 const tests = [
   { name: "Cloudflare 204", url: "https://cp.cloudflare.com/generate_204", expectedStatus: 204, forbidHtml: true },
